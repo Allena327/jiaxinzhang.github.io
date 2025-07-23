@@ -1,4 +1,4 @@
----
+ng---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Beijing Jiaotong University, 2025-now
+* M.S. in Beijing Jiaotong University, 2022-2025
+* B.S. in Reading University, 2018-2022
 
 Work experience
 ======
